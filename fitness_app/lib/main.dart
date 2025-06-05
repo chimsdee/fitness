@@ -71,7 +71,7 @@ class MyApp extends StatelessWidget {
       home: const OnBoardingScreen(),
       // home: const workoutCategoriesPage(),
       //home: const NotificationPage(),
-      // home: const HomepageNavbar(), //eee
+      // home: const HomepageNavbar(),
     );
   }
 }
